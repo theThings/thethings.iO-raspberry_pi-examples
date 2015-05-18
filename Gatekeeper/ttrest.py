@@ -2,7 +2,7 @@ import requests
 
 
 urlroot='https://api.thethings.io/v2/things/'
-token='oGx7Id4U5-qsWFsHmjo30WrwXT3a5D7KbHWsYSPe1Rg'
+token='MyToken'
 header={'Accept': 'application/json', 'Content-Type': 'application/json'}
 url=urlroot+token
 
